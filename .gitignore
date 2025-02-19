@@ -1,0 +1,6 @@
+**/__pycache__/
+.gradio
+.ragatouille
+chroma_db/
+generated_data/
+saved_model_finetune_mlm_lms_round2/
