@@ -4,3 +4,4 @@
 chroma_db/
 generated_data/
 saved_model_finetune_mlm_lms_round2/
+.env
